@@ -1,0 +1,224 @@
+[
+	{
+		"id": "xenojiivaDivinity",
+		"name": "Xeno'jiiva Divinity",
+		"setLevels": [
+			{
+				"id": "razorSharpSpareShot",
+				"pieces": 3
+			}
+		]
+	},
+	{
+		"id": "kirinFavor",
+		"name": "Kirin Favor",
+		"setLevels": [
+			{
+				"id": "captureMaster",
+				"pieces": 3
+			}
+		]
+	},
+	{
+		"id": "nergiganteHunger",
+		"name": "Nergigante Hunger",
+		"setLevels": [
+			{
+				"id": "hastenRecovery",
+				"pieces": 3
+			}
+		]
+	},
+	{
+		"id": "vaalHazakVitality",
+		"name": "Vaal Hazak Vitality",
+		"setLevels": [
+			{
+				"id": "superRecovery",
+				"pieces": 3
+			}
+		]
+	},
+	{
+		"id": "kushalaDaoraFlight",
+		"name": "Kushala Daora Flight",
+		"setLevels": [
+			{
+				"id": "nullifyWindPressure",
+				"pieces": 3
+			}
+		]
+	},
+	{
+		"id": "teostraTechnique",
+		"name": "Teostra Technique",
+		"setLevels": [
+			{
+				"id": "mastersTouch",
+				"pieces": 3
+			}
+		]
+	},
+	{
+		"id": "bazelgeuseProtection",
+		"name": "Bazelgeuse Protection",
+		"setLevels": [
+			{
+				"id": "guts",
+				"pieces": 3
+			}
+		]
+	},
+	{
+		"id": "uragaanProtection",
+		"name": "Uragaan Protection",
+		"setLevels": [
+			{
+				"id": "guardUp",
+				"pieces": 3
+			}
+		]
+	},
+	{
+		"id": "diablosMastery",
+		"name": "Diablos Mastery",
+		"setLevels": [
+			{
+				"id": "bludgeoner",
+				"pieces": 2
+			},
+			{
+				"id": "nonElementalBoost",
+				"pieces": 4
+			}
+		]
+	},
+	{
+		"id": "rathalosMastery",
+		"name": "Rathalos Mastery",
+		"setLevels": [
+			{
+				"id": "criticalElement",
+				"pieces": 2
+			},
+			{
+				"id": "mindsEyeBallistics",
+				"pieces": 4
+			}
+		]
+	},
+	{
+		"id": "odogaronMastery",
+		"name": "Odogaron Mastery",
+		"setLevels": [
+			{
+				"id": "punishingDraw",
+				"pieces": 2
+			},
+			{
+				"id": "protectivePolish",
+				"pieces": 4
+			}
+		]
+	},
+	{
+		"id": "legianaFavor",
+		"name": "Legiana Favor",
+		"setLevels": [
+			{
+				"id": "goodLuck",
+				"pieces": 2
+			},
+			{
+				"id": "bowChargePlus",
+				"pieces": 4
+			}
+		]
+	},
+	{
+		"id": "anjanathWill",
+		"name": "Anjanath Will",
+		"setLevels": [
+			{
+				"id": "adrenaline",
+				"pieces": 2
+			},
+			{
+				"id": "staminaCapUp",
+				"pieces": 4
+			}
+		]
+	},
+	{
+		"id": "zorahMagdarosMastery",
+		"name": "Zorah Magdaros Mastery",
+		"setLevels": [
+			{
+				"id": "criticalStatus",
+				"pieces": 3
+			}
+		]
+	},
+	{
+		"id": "pinkRathianMastery",
+		"name": "Pink Rathian Mastery",
+		"setLevels": [
+			{
+				"id": "poisonDurationUp",
+				"pieces": 3
+			}
+		]
+	},
+	{
+		"id": "lunastraFavor",
+		"name": "Lunastra Favor",
+		"setLevels": [
+			{
+				"id": "staminaCapUp",
+				"pieces": 2
+			},
+			{
+				"id": "mindsEyeBallistics",
+				"pieces": 4
+			}
+		]
+	},
+	{
+		"id": "soulDragon",
+		"name": "Soul of the Dragon",
+		"setLevels": [
+			{
+				"id": "elementalAirborne",
+				"pieces": 2
+			},
+			{
+				"id": "mastersTouch",
+				"pieces": 4
+			}
+		]
+	},
+	{
+		"id": "asteraBlessing",
+		"name": "Astera Blessing",
+		"setLevels": [
+			{
+				"id": "greatLuck",
+				"pieces": 5
+			}
+		]
+	},
+	{
+		"id": "witchersKnowledge",
+		"name": "Witcher's Knowledge",
+		"setLevels": [
+			{
+				"id": "igniIntensity",
+				"pieces": 2
+			},
+			{
+				"id": "superRecovery",
+				"pieces": 4
+			}
+		]
+	}
+]
