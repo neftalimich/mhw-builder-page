@@ -234,10 +234,10 @@ id	rarity	level	name	skills
 3964	0	4	Fortitude/Handicraft Jewel+ 4	fortify-1;handicraft-1
 9686	0	4	Release/Physique Jewel+ 4	freeElemAmmoUp-1;constitution-1
 9642	0	4	Release/Protection Jewel+ 4	freeElemAmmoUp-1;divineBlessing-1
-9659	0	4	Release/Evasion Jewel+ 4	freeElemAmmoUp-1;evadeWindow-1
-9625	0	4	Release/Vitality Jewel+ 4	freeElemAmmoUp-1;healthBoost-1
-9676	0	4	Release/Medicine Jewel+ 4	freeElemAmmoUp-1;recoveryUp-1
-9648	0	4	Release/Maintenance Jewel+ 4	freeElemAmmoUp-1;toolSpecialist-1
+9659	12	4	Release/Evasion Jewel+ 4	freeElemAmmoUp-1;evadeWindow-1
+9625	11	4	Release/Vitality Jewel+ 4	freeElemAmmoUp-1;healthBoost-1
+9676	11	4	Release/Medicine Jewel+ 4	freeElemAmmoUp-1;recoveryUp-1
+9648	11	4	Release/Maintenance Jewel+ 4	freeElemAmmoUp-1;toolSpecialist-1
 4612	0	4	Satiated/Attack Jewel+ 4	freeMeal-1;attackBoost-1
 4686	0	4	Satiated/Physique Jewel+ 4	freeMeal-1;constitution-1
 4619	0	4	Satiated/Expert Jewel+ 4	freeMeal-1;criticalEye-1
