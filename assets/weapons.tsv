@@ -781,77 +781,77 @@ id	weaponType	rarity	name	baseAttack	baseAffinityPercent	defense	element	element
 1942	LongSword	12	Soulfire Lash 'Styx'	825	10	0				Blast	330	false		false	12;3;9;3;3;8;2	3;3	lunastra;xeno;jiva;blast			0
 1943	SwordAndShield	9	Chrome Knight Sword I	308	0	0				Sleep	270	true		true	0;0;0;0;0;0;0	1;1	sleep			0
 1944	SwordAndShield	10	Chrome Knight Sword II	336	0	0				Sleep	300	true		true	0;0;0;0;0;0;0	1;1	sleep			0
-1945	SwordAndShield	11	Chrome Knight Sword III	364	0	0				Sleep	330	true		true	0;0;0;0;0;0;0	1;1	sleep			0
+1945	SwordAndShield	11	Chrome Knight Sword III	364	0	0				Sleep	330	true		false	11;3;3;6;5;9;3	1;1	ore;sleep			0
 1946	Gunlance	12	Ruinous Eradication	667	0	0	Dragon	210	false					true	0;0;0;0;0;0;0	2	dragon		Wide;5	0
 1947	SwordAndShield	10	Corona+	308	20	0	Fire	210	false					true	0;0;0;0;0;0;0	1	fire			0
 1948	SwordAndShield	10	Blue Corona	336	20	0	Fire	240	false					true	0;0;0;0;0;0;0	1	fire			0
-1949	SwordAndShield	12	Shining Wyvern Blade	378	20	0	Fire	390	false					true	0;0;0;0;0;0;0	2	fire			0
+1949	SwordAndShield	12	Shining Wyvern Blade	378	20	0	Fire	390	false					false	12;3;3;6;5;8;3	2	rathalos;fire			0
 1950	SwordAndShield	10	Legacy Bang	336	0	35	Thunder	390	true					true	0;0;0;0;0;0;0	3	thunder			0
-1951	SwordAndShield	11	Legendary Bang	364	0	35	Thunder	450	true					true	0;0;0;0;0;0;0	3	thunder			0
+1951	SwordAndShield	11	Legendary Bang	364	0	35	Thunder	450	true					false	13;3;3;6;5;5;5	3	workshop;thunder			0
 1952	SwordAndShield	9	Rogue Wave IV	294	0	0	Water	330	false					true	0;0;0;0;0;0;0	2	water			0
 1953	SwordAndShield	9	Laguna Blossom I	308	0	0	Water	360	false					true	0;0;0;0;0;0;0	2;1	water			0
-1954	SwordAndShield	10	Laguna Blossom II	336	0	0	Water	420	false					true	0;0;0;0;0;0;0	2;1	water			0
+1954	SwordAndShield	10	Laguna Blossom II	336	0	0	Water	420	false					false	11;3;3;6;5;7;5	2;1	pukei;coral;water			0
 1955	SwordAndShield	10	Icicle Spike	294	20	0	Ice	210	false					true	0;0;0;0;0;0;0		ice			0
 1956	SwordAndShield	10	Icicle Spike+	308	20	0	Ice	270	false					true	0;0;0;0;0;0;0		ice			0
-1957	SwordAndShield	11	Nardebosche	350	30	0	Ice	330	false					true	0;0;0;0;0;0;0		ice			0
+1957	SwordAndShield	11	Nardebosche	350	30	0	Ice	330	false					false	10;3;3;11;4;9;0		barioth;ice			0
 1958	SwordAndShield	10	Legia Rimespire+	294	0	0	Ice	360	false					true	0;0;0;0;0;0;0	1	ice			0
 1959	SwordAndShield	10	Hoarcry Rimespire	308	0	0	Ice	450	false					true	0;0;0;0;0;0;0	1	ice			0
-1960	SwordAndShield	11	Nephilim Glacia	336	0	0	Ice	480	false					true	0;0;0;0;0;0;0	1	ice			0
+1960	SwordAndShield	11	Nephilim Glacia	336	0	0	Ice	480	false					false	5;2;3;9;9;8;4	1	legiana;ice			0
 1961	SwordAndShield	9	Royal Rose+	308	10	0				Poison	270	false		true	0;0;0;0;0;0;0	1	poison			0
 1962	SwordAndShield	10	Rose Highness	364	10	0				Poison	300	false		true	0;0;0;0;0;0;0	1	poison			0
-1963	SwordAndShield	12	Lunatic Rose	406	10	0				Poison	360	false		true	0;0;0;0;0;0;0	1	poison			0
+1963	SwordAndShield	12	Lunatic Rose	406	10	0				Poison	360	false		false	6;8;3;4;7;12;0	1	rathian;poison			0
 1964	SwordAndShield	9	Lumu Nightmare I	336	0	0				Blast	360	true		true	0;0;0;0;0;0;0	3;1	blast			0
-1965	SwordAndShield	10	Lumu Nightmare II	350	0	0				Blast	480	true		true	0;0;0;0;0;0;0	3;1	blast			0
+1965	SwordAndShield	10	Lumu Nightmare II	350	0	0				Blast	480	true		false	14;3;3;6;5;6;3	3;1	paolumu;blast			0
 1966	SwordAndShield	9	Nyx Tabar I	308	0	0				Sleep	270	false		true	0;0;0;0;0;0;0	2	sleep			0
-1967	SwordAndShield	10	Nyx Tabar II	336	0	0				Sleep	330	false		true	0;0;0;0;0;0;0	2	sleep			0
+1967	SwordAndShield	10	Nyx Tabar II	336	0	0				Sleep	330	false		false	6;8;3;3;8;12;0	2	paolumu;nightshade;sleep			0
 1968	SwordAndShield	9	Datura Florescence I	280	0	0				Poison	420	false		true	0;0;0;0;0;0;0	2;1	poison			0
-1969	SwordAndShield	10	Datura Florescence II	336	0	0				Poison	450	false		true	0;0;0;0;0;0;0	2;1	poison			0
+1969	SwordAndShield	10	Datura Florescence II	336	0	0				Poison	450	false		false	11;3;3;6;5;7;5	2;1	pukei;poison			0
 1970	SwordAndShield	10	Dios Edge	322	0	0				Blast	300	false		true	0;0;0;0;0;0;0		blast			0
-1971	SwordAndShield	11	Booming Barrage	350	0	0				Blast	360	false		true	0;0;0;0;0;0;0	1	blast			0
+1971	SwordAndShield	11	Booming Barrage	350	0	0				Blast	360	false		false	8;3;3;11;4;11;0	1	brachydios;blast			0
 1972	SwordAndShield	9	Naaga Seax I	280	20	0				Paralysis	270	false		true	0;0;0;0;0;0;0		paralysis			0
-1973	SwordAndShield	10	Naaga Seax II	336	20	0				Paralysis	300	false		true	0;0;0;0;0;0;0		paralysis			0
+1973	SwordAndShield	10	Naaga Seax II	336	20	0				Paralysis	300	false		false	9;10;4;5;8;4;0		girros;paralysis			0
 1974	SwordAndShield	10	Hidden Edge	294	10	0				Poison	270	true		true	0;0;0;0;0;0;0		poison			0
 1975	SwordAndShield	10	Hidden Edge+	308	15	0				Poison	330	true		true	0;0;0;0;0;0;0		poison			0
-1976	SwordAndShield	11	Flash in the Night	336	20	0				Poison	390	true		true	0;0;0;0;0;0;0		poison			0
+1976	SwordAndShield	11	Flash in the Night	336	20	0				Poison	390	true		false	13;2;2;7;4;3;9		nargacuga;poison			0
 1977	SwordAndShield	9	Radobaan Os I	322	0	35				Paralysis	330	true		true	0;0;0;0;0;0;0	3	paralysis			0
 1978	SwordAndShield	10	Radobaan Os II	350	0	35				Paralysis	330	true		true	0;0;0;0;0;0;0	3	paralysis			0
-1979	SwordAndShield	11	Radobaan Os III	392	0	35				Paralysis	360	true		true	0;0;0;0;0;0;0	3	paralysis			0
+1979	SwordAndShield	11	Radobaan Os III	392	0	35				Paralysis	360	true		false	7;10;4;5;9;5;0	3	bone;paralysis			0
 1980	SwordAndShield	11	Icegale	364	0	0	Ice	210	false					true	0;0;0;0;0;0;0	4	ice			0
-1981	SwordAndShield	12	Noble Ana Palas	378	0	0	Ice	270	false					true	0;0;0;0;0;0;0	4	ice			0
+1981	SwordAndShield	12	Noble Ana Palas	378	0	0	Ice	270	false					false	13;3;3;6;5;5;5	4	velkhana;ice			0
 1982	SwordAndShield	9	Radobaan Osseus I	322	0	35				Sleep	240	false		true	0;0;0;0;0;0;0		sleep			0
-1983	SwordAndShield	10	Radobaan Osseus II	350	0	35				Sleep	270	false		true	0;0;0;0;0;0;0		sleep			0
+1983	SwordAndShield	10	Radobaan Osseus II	350	0	35				Sleep	270	false		false	10;3;3;11;4;9;0		radobaan;sleep			0
 1984	SwordAndShield	10	Acid Razor I	378	0	0				Paralysis	180	true		true	0;0;0;0;0;0;0	4	paralysis			0
-1985	SwordAndShield	11	Acid Razor II	406	0	0				Paralysis	210	true		true	0;0;0;0;0;0;0	4	paralysis			0
+1985	SwordAndShield	11	Acid Razor II	406	0	0				Paralysis	210	true		false	6;5;11;9;6;2;1	4	acidic;glavenus;paralysis			0
 1986	SwordAndShield	9	Saber's Gullet I	322	0	0	Water	390	true					true	0;0;0;0;0;0;0	3;3	water			0
-1987	SwordAndShield	10	Saber's Gullet II	364	0	0	Water	450	true					true	0;0;0;0;0;0;0	3;3	water			0
+1987	SwordAndShield	10	Saber's Gullet II	364	0	0	Water	450	true					false	10;8;3;3;8;8;0	3;3	jagras;water			0
 1988	SwordAndShield	10	Rex Talon	350	-20	0				Blast	180	true		true	0;0;0;0;0;0;0		blast			0
 1989	SwordAndShield	10	Rex Talon+	378	-20	0				Blast	210	true		true	0;0;0;0;0;0;0		blast			0
-1990	SwordAndShield	11	Tigrex Sword	392	-20	0				Blast	300	true		true	0;0;0;0;0;0;0		blast			0
+1990	SwordAndShield	11	Tigrex Sword	392	-20	0				Blast	300	true		false	5;3;3;11;4;14;0		tigrex;blast			0
 1991	SwordAndShield	11	Accursed Claw	392	-30	0				Sleep	180	true		true	0;0;0;0;0;0;0		sleep			0
-1992	SwordAndShield	12	Stonebite	406	-30	0				Sleep	210	true		true	0;0;0;0;0;0;0		sleep			0
+1992	SwordAndShield	12	Stonebite	406	-30	0				Sleep	210	true		false	9;2;3;9;9;4;4		brute;tigrex;sleep			0
 1993	SwordAndShield	9	Lightning Nemesis IV	308	0	0	Thunder	240	false					true	0;0;0;0;0;0;0	2	thunder			0
 1994	SwordAndShield	10	Usurper's Firebolt	336	0	0	Thunder	300	false					true	0;0;0;0;0;0;0	2	thunder			0
 1995	SwordAndShield	11	Usurper's Firebolt+	350	0	0	Thunder	330	false					true	0;0;0;0;0;0;0	2	thunder			0
-1996	SwordAndShield	12	Despot's Crookbolt	364	0	0	Thunder	360	false					true	0;0;0;0;0;0;0	2	thunder			0
+1996	SwordAndShield	12	Despot's Crookbolt	364	0	0	Thunder	360	false					false	12;3;9;3;3;8;2	2	element;thunder			0
 1997	SwordAndShield	9	Barroth Slicer I	336	-10	25				Paralysis	240	true		true	0;0;0;0;0;0;0	2;2	paralysis			0
-1998	SwordAndShield	10	Barroth Slicer II	378	-10	25				Paralysis	270	true		true	0;0;0;0;0;0;0	2;2	paralysis			0
+1998	SwordAndShield	10	Barroth Slicer II	378	-10	25				Paralysis	270	true		false	9;10;4;5;7;5;0	2;2	barroth;paralysis			0
 1999	SwordAndShield	10	Glavenus Razor I	336	0	0	Fire	150	false					true	0;0;0;0;0;0;0	1	fire			0
-2000	SwordAndShield	10	Glavenus Razor II	350	0	0	Fire	240	false					true	0;0;0;0;0;0;0	1;1	fire			0
+2000	SwordAndShield	10	Glavenus Razor II	350	0	0	Fire	240	false					false	12;3;3;6;5;8;3	1;1	glavenus;fire			0
 2001	SwordAndShield	9	Gnashing Flammensucher+	322	-20	0	Fire	330	false					true	0;0;0;0;0;0;0		fire			0
-2002	SwordAndShield	10	Lohensieger	378	-20	0	Fire	450	false					true	0;0;0;0;0;0;0		fire			0
+2002	SwordAndShield	10	Lohensieger	378	-20	0	Fire	450	false					false	7;10;4;5;9;5;0		anjanath;fire			0
 2003	SwordAndShield	10	Donnersieger	336	5	0	Thunder	210	false					true	0;0;0;0;0;0;0		thunder			0
 2004	SwordAndShield	10	Donnersieger+	350	10	0	Thunder	240	false					true	0;0;0;0;0;0;0		thunder			0
-2005	SwordAndShield	11	Fulguration's Talon	364	15	0	Thunder	270	false					true	0;0;0;0;0;0;0		thunder			0
+2005	SwordAndShield	11	Fulguration's Talon	364	15	0	Thunder	270	false					false	7;10;4;5;9;5;0		fulgur;anjanath;thunder			0
 2006	SwordAndShield	10	Dragonseal Aldsword I	294	0	0	Dragon	480	false					true	0;0;0;0;0;0;0	1;1	dragon			0
-2007	SwordAndShield	11	Dragonseal Aldsword II	336	0	0	Dragon	540	false					true	0;0;0;0;0;0;0	1;1	dragon			0
-2008	SwordAndShield	12	Manifested Lotus	392	0	30	Dragon	450	true					true	0;0;0;0;0;0;0	1;1	dragon			0
-2009	SwordAndShield	11	Ephemeral Fulminator	336	0	0	Thunder	510	false					true	0;0;0;0;0;0;0		thunder			0
-2010	SwordAndShield	11	Hydros Discus	378	10	0	Water	360	false					true	0;0;0;0;0;0;0	1	water			0
-2011	SwordAndShield	11	Teostra's Medal	364	15	0				Blast	270	false		true	0;0;0;0;0;0;0		blast			0
-2012	SwordAndShield	12	Fate's Shear	392	-20	0	Dragon	240	false					true	0;0;0;0;0;0;0		dragon			0
-2013	SwordAndShield	12	Soulfire Barb 'Blaze'	350	20	0				Blast	180	false		true	0;0;0;0;0;0;0	2;1	blast			0
-2014	SwordAndShield	12	Soulfire Barb 'Ruin'	378	0	0				Blast	150	false		true	0;0;0;0;0;0;0	2;2	blast			0
-2015	SwordAndShield	12	Soulfire Barb 'Styx'	350	10	0				Blast	240	false		true	0;0;0;0;0;0;0	3;3	blast			0
+2007	SwordAndShield	11	Dragonseal Aldsword II	336	0	0	Dragon	540	false					false	16;7;2;2;9;4;0	1;1	dragonbone;dragon			0
+2008	SwordAndShield	12	Manifested Lotus	392	0	30	Dragon	450	true					false	16;3;4;5;5;4;3	1;1	shara;ishvalda;dragon			0
+2009	SwordAndShield	11	Ephemeral Fulminator	336	0	0	Thunder	510	false					false	5;8;3;3;8;13;0		kirin;thunder			0
+2010	SwordAndShield	11	Hydros Discus	378	10	0	Water	360	false					false	6;8;3;3;8;12;0	1	namielle;water			0
+2011	SwordAndShield	11	Teostra's Medal	364	15	0				Blast	270	false		false	10;3;3;11;4;9;0		blacksteel;blast			0
+2012	SwordAndShield	12	Fate's Shear	392	-20	0	Dragon	240	false					false	15;3;3;6;5;5;3		deviljho;dragon			0
+2013	SwordAndShield	12	Soulfire Barb 'Blaze'	350	20	0				Blast	180	false		false	12;3;3;6;5;8;3	2;1	lunastra;teostra;blast			0
+2014	SwordAndShield	12	Soulfire Barb 'Ruin'	378	0	0				Blast	150	false		false	12;3;3;6;5;8;3	2;2	lunastra;nergigante;blast			0
+2015	SwordAndShield	12	Soulfire Barb 'Styx'	350	10	0				Blast	240	false		false	12;3;3;6;5;8;3	3;3	lunastra;xeno;jiva;blast			0
 2016	DualBlades	9	Chrome Cross I	308	0	0				Poison	300	true		true	0;0;0;0;0;0;0	1;1	poison			0
 2017	DualBlades	10	Chrome Cross II	336	0	0				Poison	330	true		true	0;0;0;0;0;0;0	1;1	poison			0
 2018	DualBlades	11	Chrome Cross III	364	0	0				Poison	360	true		true	0;0;0;0;0;0;0	1;1	poison			0
