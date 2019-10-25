@@ -1478,7 +1478,7 @@
 		"levels": [
 			{
 				"description": "Increases affinity by 30% for a short time after sliding.",
-				"slidingAffinity": 30
+				"activeAffinity": 30
 			}
 		]
 	},
@@ -1870,15 +1870,15 @@
 		"levels": [
 			{
 				"description": "Draw attack affinity +30%",
-				"drawAffinity": 30
+				"activeAffinity": 30
 			},
 			{
 				"description": "Draw attack affinity +60%",
-				"drawAffinity": 60
+				"activeAffinity": 60
 			},
 			{
 				"description": "Draw attack affinity +100%",
-				"drawAffinity": 100
+				"activeAffinity": 100
 			}
 		]
 	},
