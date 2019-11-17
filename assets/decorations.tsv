@@ -64,7 +64,7 @@ id	rarity	level	name	skills
 53	6	2	KO Jewel 2	slugger-1
 54	7	2	Mighty Jewel 2	maximumMight-1
 55	8	2	Mighty Bow Jewel 2	bowChargePlus-1
-56	8	2	Charge Jewel 2	focus-1
+56	8	2	Charger Jewel 2	focus-1
 57	6	2	Destroyer Jewel 2	partbreaker-1
 58	6	2	Elementless Jewel 2	nonElementalBoost-1
 59	6	2	Evasion Jewel 2	evadeWindow-1
@@ -193,12 +193,12 @@ id	rarity	level	name	skills
 9425	0	4	Challenger/Vitality Jewel+ 4	agitator-1;healthBoost-1
 9476	0	4	Challenger/Medicine Jewel+ 4	agitator-1;recoveryUp-1
 9448	0	4	Challenger/Maintenance Jewel+ 4	agitator-1;toolSpecialist-1
-5686	0	4	Charge/Physique Jewel+ 4	focus-1;constitution-1
-5642	0	4	Charge/Protection Jewel+ 4	focus-1;divineBlessing-1
-5659	0	4	Charge/Evasion Jewel+ 4	focus-1;evadeWindow-1
-5625	0	4	Charge/Vitality Jewel+ 4	focus-1;healthBoost-1
-5676	0	4	Charge/Medicine Jewel+ 4	focus-1;recoveryUp-1
-5648	0	4	Charge/Maintenance Jewel+ 4	focus-1;toolSpecialist-1
+5686	0	4	Charger/Physique Jewel+ 4	focus-1;constitution-1
+5642	0	4	Charger/Protection Jewel+ 4	focus-1;divineBlessing-1
+5659	0	4	Charger/Evasion Jewel+ 4	focus-1;evadeWindow-1
+5625	0	4	Charger/Vitality Jewel+ 4	focus-1;healthBoost-1
+5676	0	4	Charger/Medicine Jewel+ 4	focus-1;recoveryUp-1
+5648	0	4	Charger/Maintenance Jewel+ 4	focus-1;toolSpecialist-1
 10086	0	4	Coalescence/Physique Jewel+ 4	coalescence-1;constitution-1
 10042	0	4	Coalescence/Protection Jewel+ 4	coalescence-1;divineBlessing-1
 10059	0	4	Coalescence/Evasion Jewel+ 4	coalescence-1;evadeWindow-1
