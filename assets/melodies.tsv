@@ -75,7 +75,7 @@ id	notes	melodies	melodiesEffect
 2213	p;g;lb2;k3	1;1|1;2;1|2;2;1;3|3;3;3|3;3;2;1|4;2|4;3	selfImprovement;healthRecovery-S;healthRecovery-L;scoutflyPowerUp;earplugs-L;affinityUp-S+healthRecovery-S;speedBoost+evadeWindowUp
 2215	p;r;y2;k3	1;1|1;2;3|3;1;2|2;3;1|3;2;1|3;3;3|4;2|4;3	selfImprovement;attackUp-S;attackUp-S;attackUp-S;fireResBoost-L;sonicWaves;impactEchoWave;elementalEffectivenessUp
 2217	p;b;lb2;k3	1;1|1;3;2;3|2;2;3|1;2;2;1|1;2;3|3;3;3|3;2;1|4;2	selfImprovement;staminaUseReduce-L;windPressureNegated;defenseUp-L;healthRecovery-S;healthRecovery-M+antidote;maxStaminaUp+recovery;extendedHealthRecovery
-2219	p;lb1;o2;k3	1;1|2;2;2|2;3;3;1|2;1;3;3|1;3;1;2|4;3|4;2	selfImprovement;scoutflyPowerUp;ailmentBoost;allAilmentsNegated;divineProtection;echoWaveDragon;speedBoost+evadeWindowUp
+2219	p;lb;o2;k3	1;1|2;2;2|2;3;3;1|2;1;3;3|1;3;1;2|4;3|4;2	selfImprovement;scoutflyPowerUp;ailmentBoost;allAilmentsNegated;divineProtection;echoWaveDragon;speedBoost+evadeWindowUp
 2221	p;r;g2;k3	1;1|1;2;3;1|1;3;1|3;3;2;1|4;2|4;3	selfImprovement;attackUp-L;healthRecovery-S;recoverySpeed-L;impactEchoWave;extendedHealthRecovery
 2223	p;b;y2;k3	1;1|1;3;2|2;2;3;1|1;2;2;1|3;2;1|3;3;3|4;2|4;3	selfImprovement;staminaUseReduce-L;allWindPressureNegated;defenseUp-L;iceResBoost-L;sonicWaves;maxStaminaUp+recovery;elementalEffectivenessUp
 2225	p;r;y2;k3	1;1|1;2;3|3;1;2|2;3;1|3;2;1|3;3;3|4;2|4;3	selfImprovement;attackUp-S;attackUp-S;attackUp-S;fireResBoost-L;sonicWaves;impactEchoWave;elementalEffectivenessUp
