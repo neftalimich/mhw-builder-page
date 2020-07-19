@@ -30,7 +30,7 @@ id	weaponType	rarity	name	baseAttack	baseAffinityPercent	defense	element	element
 308	Bow	8	Taroth Arrow 'Blast'	240	0	30				Blast	360	true		false		3	kulve-taroth	blast		close;paralysis;poison;sleep;blast		0
 685	Bow	8	Taroth Arrow 'Fire'	240	10	20	Fire	360	true					false		3	kulve-taroth	fire		close;power		0
 411	Bow	8	Taroth Arrow 'Thunder'	228	10	20	Thunder	360	true					false		3	kulve-taroth	thunder		close;power		0
-357	Bow	8	Taroth Arrow 'Water'	228	0	30	Water	390	true					false		3	kulve-taroth	water		close;paralysis;poison		0
+357	Bow	8	Taroth Arrow 'Water'	228	0	30	Water	360	true					false		3	kulve-taroth	water		close;paralysis;poison		0
 272	Bow	8	Xeno Metora	204	15	0	Dragon	180					Low	false		3;3	xeno-jiiva	dragon		close;power;poison;blast		0
 681	Bow	8	Empress Arrow 'Blaze'	216	20	0				Blast	120			false		2;1	lunastra;teostra	blast	guts-1	close;power		0
 682	Bow	8	Empress Arrow 'Ruin'	228	0	0				Blast	90			false		2;2	lunastra;nergigante	blast	hastenRecovery-1	close;power;poison;sleep		0
